@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions to be observed by His Majestie's officers and their respective deputies, imployed for collecting His Majesties revenue arising from the duty imposed upon chimneys, fire-hearths and stoves, by virtue of the acts of Parliament made in that behalf.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87282</idno><idno type="EEBO-CITATION">99896144</idno>
+  <idno type="VID">154001</idno>
+  <idno type="EEBO-PROQUEST">2264177728</idno>
+  
+            <idno type="STC">Wing I255B</idno>
+            <idno type="STC">ESTC R225897</idno>
+            <idno type="PROQUEST">99896144</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896144e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87282)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154001)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:9; 2445:2b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions to be observed by His Majestie's officers and their respective deputies, imployed for collecting His Majesties revenue arising from the duty imposed upon chimneys, fire-hearths and stoves, by virtue of the acts of Parliament made in that behalf.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>[2], 29, [1]   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy filmed at UMI Early English books, 1641-1700, is bound following: Hearth-money (Wing H1312).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1688 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Economic conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:154001:1"/>
+                  <pb facs="tcp:154001:1"/>
+                  <p>INSTRUCTIONS To be observed by His <hi>MAJESTIE'S</hi> OFFICERS AND Their respective DEPUTIES, Imployed for Collecting His MAJESTIEs Revenue arising from the Duty imposed upon <hi>Chimneys, Fire-hearths</hi> and <hi>Stoves,</hi> by virtue of the Acts of PARLIAMENT made in that behalf.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed in the Year 1672.</p>
+               </div>
+            </front>
+            <body>
+               <div type="chimney-tax_ordinance">
+                  <pb facs="tcp:154001:2"/>
+                  <pb n="1" facs="tcp:154001:2"/>
+                  <head>To be observed by His <hi>Majestie's</hi> Officers and their respective De<g ref="char:EOLhyphen"/>puties, imployed for Collecting His <hi>Majestie</hi>'s Revenue arising from the Duty imposed upon <hi>Chimneys, Hearths</hi> and <hi>Stoves,</hi> by virtue of the Act made in the First Session of Parliament begun at <hi>Westminster</hi> the eighth day of <hi>May,</hi> in the thir<g ref="char:EOLhyphen"/>teenth year of His <hi>Majestie's</hi> Reign, entituled, <hi>An Act for establishing an Additional Revenue upon His Majesty, His Heirs and Successors, for the better support of His and their Crown and Dignity;</hi> and of another Act made in the Second Ses<g ref="char:EOLhyphen"/>sion of the same Parliament, entitu<g ref="char:EOLhyphen"/>led, <hi>An Additional Act for the better Ordering and Collecting, the Revenue arising by Hearth<g ref="char:EOLhyphen"/>mony;</hi> and of another Act made
+<pb n="2" facs="tcp:154001:3"/> in the Third Session of the same Par<g ref="char:EOLhyphen"/>liament, entituled, <hi>An Act for Col<g ref="char:EOLhyphen"/>lecting the Duty arising by Hearth<g ref="char:EOLhyphen"/>mony by Officers to be appointed by His Majesty.</hi>
+                  </head>
+                  <p>YOU and every of your Depu<g ref="char:EOLhyphen"/>ties are to peruse and consider all the Clauses of the said seve<g ref="char:EOLhyphen"/>ral Acts, that you may the better Col<g ref="char:EOLhyphen"/>lect and Levy the Duty of Two shil<g ref="char:EOLhyphen"/>lings for every Fire-hearth and Stove (within your Charge) imposed and esta<g ref="char:EOLhyphen"/>blished by the said Acts of Parliament, and payable at the Feasts of St. <hi>Michael</hi> the Archangel, and the Annunciation of the Blessed Virgin <hi>Mary,</hi> yearly, by equal portions, and of all Arrears and Penal<g ref="char:EOLhyphen"/>ties that are or shall grow due to His Majesty for the same; wherein you are to take notice, that the Arrears now due to His Majesty are onely such as have incurred since the 25. day of <hi>March</hi> 1669.</p>
+                  <div type="provisions">
+                     <p>And you and your respective Deputies are to know and understand the Parti<g ref="char:EOLhyphen"/>culars following:
+<list>
+                           <pb n="3" facs="tcp:154001:3"/>
+                           <label>I.</label>
+                           <item>That all and every Fire-hearth and Stove, which upon the 25. day of <hi>March</hi> 1662. was, or should after that time be, in any dwelling or other house and edifice, &amp;c. whether in a Chimny, or in any part of such house, edifice, &amp;c. (other then such as in the Acts are excepted) is chargeable and charged with the Duty.</item>
+                           <label>II.</label>
+                           <item>That all persons (living in houses ha<g ref="char:EOLhyphen"/>ving less then three Chimneys, Fire-hearths and Stoves in them) who do receive weekly or monthly Contributi<g ref="char:EOLhyphen"/>on for their support from the Parish wherein they live respectively, are ab<g ref="char:EOLhyphen"/>solutely freed and discharged from the Duty.</item>
+                           <label>III.</label>
+                           <item>That no Person ought to be charged with the Duty who shall produce or be comprehended in a Certificate made (in all points) as is directed by the Act: Provided, that the house wherein the party liveth be not a divided house, nor hath any Land, Garden, Orchard,
+<pb n="4" facs="tcp:154001:4"/> or Out-housing (belonging thereunto) lett apart from the same; (in which case the Landlord onely ought to be char<g ref="char:EOLhyphen"/>ged: (and also Provided such house have not above two Chimneys, Fire-hearths, and Stoves therein.</item>
+                           <label>IV.</label>
+                           <item>That such a Certificate must com<g ref="char:EOLhyphen"/>prehend all the joint qualifications of a <hi>Pauper,</hi> as the same are expresly descri<g ref="char:EOLhyphen"/>bed in the first Act, and cannot be warranted if any one or more of them be omitted therein. That is to say, If either the house wherein the party certified for doth inhabit be of grea<g ref="char:EOLhyphen"/>ter value then twenty shillings <hi>per an<g ref="char:EOLhyphen"/>num</hi> upon the full improved rent, or that the person so inhabiting, or any other using the same, hath, useth or occupieth any Lands or Tenements of their own or others of the yearly value of twenty shillings <hi>per annum,</hi> or hath any Lands, Tenements, Goods or Chat<g ref="char:EOLhyphen"/>tels, of the value of ten pound in their own possession, or in the possession of any other in trust for them; the said Cer<g ref="char:EOLhyphen"/>tificate is illegall and void.</item>
+                           <pb n="5" facs="tcp:154001:4"/>
+                           <label>V.</label>
+                           <item>That the said Certificate must be signed by the Minister of the Parish, and by one or more of the Church-wardens or Collectors for the Poor, and allowed under the hands of two Justices of the Peace; otherwise it is not sufficient.</item>
+                           <label>VI.</label>
+                           <item>That such a Certificate discharges no person farther then for the year where<g ref="char:EOLhyphen"/>in the same is made; (that is to say) a Certificate made in 1669. cannot dis<g ref="char:EOLhyphen"/>charge the Duty due in the year 1670.</item>
+                           <label>VII.</label>
+                           <item>That no Certificate made contrary unto, or not fully agreeing in all the be<g ref="char:EOLhyphen"/>fore-mentioned requisites of a Legal Certificate, can bind up or hinder you or your Deputies from levying His Maje<g ref="char:EOLhyphen"/>stie's Duty.</item>
+                           <label>VIII.</label>
+                           <item>That forasmuch as all Legal Certifi<g ref="char:EOLhyphen"/>cates are necessary Vouchers for the dis<g ref="char:EOLhyphen"/>charge of so much upon your Accompts, you and your Deputies (upon allow<g ref="char:EOLhyphen"/>ance
+<pb n="6" facs="tcp:154001:5"/> of such) are to take them in, and withall to be carefull that the persons concerned may be put to no farther trouble for that year.</item>
+                           <label>IX.</label>
+                           <item>That in case a Certificate be made for more then one person, and you or any of your Deputies (upon enquiry) shall have good information, that any person or persons comprehended there<g ref="char:EOLhyphen"/>in are unduly certified for, and the same shall be made to appear to any of the Justices who allowed the said Certifi<g ref="char:EOLhyphen"/>cate, and he shall thereupon order the name or names of such persons to be struck out of the same; then it will be requisite, that the said Justices do certifie in the said Certificate, or on the backside thereof, the name or names so struck out, that such may have no pretence to be exempted thereby, but stand as liable to the Duty, as if they had never been inser<g ref="char:EOLhyphen"/>ted therein.</item>
+                           <label>X.</label>
+                           <item>That all Blowing-houses and Stamp-furnaces, or Kilns, or private Ovens, and all Hearths or Stoves within the
+<pb n="7" facs="tcp:154001:5"/> Site of any Hospital or Alms-house for the relief of poor people, whose Endowment and Revenue exceeds not in true value one hundred pounds <hi>per annum,</hi> are clearly exempt from being charged with the Duty: But the Hearth of a Chimny within any Kitchin, Back-house or Out-house, remains charged with the Duty, though the Hearths of the private Ovens, Furnaces or Oast-holes within or belonging to such Chimny be exempted.</item>
+                           <label>XI.</label>
+                           <item>That by Blowing-houses and Stamp-furnaces you are to understand Smel<g ref="char:EOLhyphen"/>ting-houses, or houses wherein the Mineral or Oar is melted down into Metal; and by private Ovens, such O<g ref="char:EOLhyphen"/>vens wherein provisions for the family onely (and not for gain) are baked or dressed.</item>
+                           <label>XII.</label>
+                           <item>That the Duty for all empty or void houses is to be charged and levied upon the Landlord or Owner of such house or houses, as Occupier thereof, till some other person inhabiteth therein: But
+<pb n="8" facs="tcp:154001:6"/> no Landlord or Owner of any house, edifice, &amp;c. ought to be charged with the Duty while there is a Tenant or any other Occupier dwelling therein, unless in the cases following.
+<q>Where the Landlord or Owner hath lett any part of the Land, Gardens, Orchards, or Out-housing, formerly belonging to any house, apart from the same, or hath divided a house into lesser Tenements, and hath lett the same to a person that is or may be exempted by Law.</q> Nevertheless, you are directed to forbear to charge the Fire-hearths or Chimneys in houses or parts of houses new erected with the Duty, until the next half-year-day after such house or houses are or shall be inhabited.</item>
+                           <label>XIII.</label>
+                           <item>That the Duty may at any time after the half-yearly-feasts whereon the same groweth due to His Majesty be deman<g ref="char:EOLhyphen"/>ded &amp; received by you or your Deputies;
+<pb n="9" facs="tcp:154001:6"/> But it cannot be levied by distress with<g ref="char:EOLhyphen"/>out the assistance of a Constable, Tyth<g ref="char:EOLhyphen"/>ing-man, or other publick or proper Officer of the place, (if any such be, o<g ref="char:EOLhyphen"/>therwise without) and that in the day-time onely, nor till at least one hour af<g ref="char:EOLhyphen"/>ter the first demand thereof.</item>
+                           <label>XIV.</label>
+                           <item>That the Distress is to be taken in the house for which the Duty is answera<g ref="char:EOLhyphen"/>ble, if it can conveniently be made therein; otherwise in any part of the out-housing, yards or land belonging and adjoyning thereunto.</item>
+                           <label>XV.</label>
+                           <item>That though after one hour of the first demand of the Duty; you or your Deputy (accompanied with a Consta<g ref="char:EOLhyphen"/>ble, &amp;c.) may proceed to distress; yet if the person who ought to pay the Du<g ref="char:EOLhyphen"/>ty, or any other in behalf of him or her, shall tender the same before distress be made, or (being made) before it shall be carried out of the house or ground upon which it shall be taken, the Duty so tendred is to be accepted of, and the goods so distreined are to be re-delive<g ref="char:EOLhyphen"/>red
+<pb n="10" facs="tcp:154001:7"/> and restored without any farther Charge.</item>
+                           <label>XVI.</label>
+                           <item>That goods legally distreined may be left (as His Majestie's goods) in the hands of the Constable or other person at discretion, and may (for the Owners conveniency) be kept some reasonable time if undisposed of: But if the said Owner do neglect or refuse to redeem them, they are to be sold at the best price can be gotten, and the overplus ( if any ) above the Duty and Charge is to be returned to the said Owner: And if the goods yield not so much as the Duty and lawfull Charge amounteth unto, a farther distress may be made for the remainder.</item>
+                           <label>XVII.</label>
+                           <item>That though the Charge of distrein<g ref="char:EOLhyphen"/>ing (not exceeding the moiety of the Duty) be allowed; yet there ought to be no more taken in such case then <hi>(bona fide)</hi> the real Charge amounteth unto.</item>
+                           <pb n="11" facs="tcp:154001:7"/>
+                           <label>XVIII.</label>
+                           <item>That you and your respective Depu<g ref="char:EOLhyphen"/>ties are to give plain and distinct Acquit<g ref="char:EOLhyphen"/>tances for what you shall receive, and that freely, without Fee or Reward, ascertaining therein the time when the Duty so received became due; and to advise persons to keep them safe, to pre<g ref="char:EOLhyphen"/>vent inconveniences that may happen by non-producing of them when necessi<g ref="char:EOLhyphen"/>ty may require it.</item>
+                           <label>XIX.</label>
+                           <item>That no person can be distreined or molested for any Duty or Arrears there<g ref="char:EOLhyphen"/>of that hath been due above two years.</item>
+                           <label>XX.</label>
+                           <item>That if you or any of your Deputies shall be injured or opposed in the per<g ref="char:EOLhyphen"/>formance of your duties, you are to repair to the next Justice of the Peace, and make Oath before him thereof, and require such Relief of him as the Law directs.</item>
+                           <label>XXI.</label>
+                           <item>That no person can be chargeable
+<pb n="12" facs="tcp:154001:8"/> with more then one half years Duty before he or she taketh or entreth into a relin<g ref="char:EOLhyphen"/>quished house, though there should be an Arrear of full two years Duty, or less, for or upon the said house.</item>
+                           <label>XXII.</label>
+                           <item>That the stopping up, defacing, cover<g ref="char:EOLhyphen"/>ing or concealing of any chargeable Chim<g ref="char:EOLhyphen"/>ny, Hearth, or Stove, doth not discharge the Duty payable for such Hearth; but whosoever shall do the same fraudulently, shall, for such Offence, (being proved as the Act directs) pay double the value of the said Duty: Nevertheless, if the whole Chimny wherein such charge<g ref="char:EOLhyphen"/>able Hearth was shall be destroyed, demolished, or quite taken down, in such Case the Duty for such Hearth or Hearths ought not to be exacted, the same be<g ref="char:EOLhyphen"/>ing a Decrease, for which the Owner or Occupier may lawfully claim an al<g ref="char:EOLhyphen"/>lowance.</item>
+                           <label>XXIII.</label>
+                           <item>That no Fire-hearth within a Chim<g ref="char:EOLhyphen"/>ny standing in whole or in part, is to be discharged from the Duty, under pre<g ref="char:EOLhyphen"/>tence that the same was stopped up,
+<pb n="13" facs="tcp:154001:8"/> defaced, or covered, before the Act, un<g ref="char:EOLhyphen"/>less Affidavit be made, that the same was so done before the 26. day of <hi>March</hi> 1662. which Affidavits you are to preserve, and return with your Accompt.</item>
+                           <label>XXIV.</label>
+                           <item>That a Person inhabiting any house, <hi>&amp;c.</hi> wherein is above two Chimneys, Fire-hearths or Stoves, (except an Alms-house or Hospital excepted) cannot be ex<g ref="char:EOLhyphen"/>empted from the Duty upon any pretext whatsoever.</item>
+                           <label>XXV.</label>
+                           <item>That no Person or Persons are to be re<g ref="char:EOLhyphen"/>turned into the Exchequer in order to the issuing of any Process thence against them in default of payment of the Duty, where a portable and valuable Distress may be had and taken within or about the house (or grounds belonging thereunto) for which the Duty is answerable. But in the Cases following, you or your Deputies may have recourse unto his Majesties Court of Exchequer for recovery of His Majesties Duty, by such legal and proper Remedies as you shall from time to time be directed to pursue.
+<list>
+                                 <pb n="14" facs="tcp:154001:9"/>
+                                 <item>1. When the person owing the Duty is dead, and the Executors or Administrators live not in the house for which the Duty is pay<g ref="char:EOLhyphen"/>able.</item>
+                                 <item>2. When a party removes out of a house owing more then one half years Duty, or when (but half a year) the house lies void for a<g ref="char:EOLhyphen"/>bove one half after his or her re<g ref="char:EOLhyphen"/>moval.</item>
+                                 <item>3. In the case of Empty houses, or of houses from which Land, <hi>&amp;c</hi> is lett, or of divided houses (for<g ref="char:EOLhyphen"/>merly chargeable) lett unto <hi>Pau<g ref="char:EOLhyphen"/>pers.</hi>
+                                 </item>
+                                 <item>4. When the persons who owe the Duty are priviledged, or do claim priviledge of Exemption from Di<g ref="char:EOLhyphen"/>stress.</item>
+                                 <item>5. When the Duty demanded is pay<g ref="char:EOLhyphen"/>able, but denied to be chargeable by the Act, and the party will not set out a Distress in order to a Trial at Law.</item>
+                                 <item>6. Where a portable and valuable Distress cannot be made or taken upon the Premisses, and yet the Persons able to answer the Duty.</item>
+                                 <pb n="15" facs="tcp:154001:9"/>
+                                 <item>7. When persons shall wilfully shut their doors against you or your Deputies, thereby to prevent the Levying of the Duty.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </p>
+                  </div>
+                  <div type="enforcement_instructions">
+                     <pb facs="tcp:154001:10"/>
+                     <pb n="17" facs="tcp:154001:10"/>
+                     <list>
+                        <label>A.</label>
+                        <item>YOU are forthwith to provide so many sufficient Deputies as may necessarily be employed by you in the Affair committed to your management, and to assign and set out to them respe<g ref="char:EOLhyphen"/>ctively such proportion of your whole Charge as they may be able to perfect and compleat within the time prescri<g ref="char:EOLhyphen"/>bed by the Acts to that purpose. And you are to take care to accommodate them with all things requisite for the Work intended; and to satisfie your self (as your Concerns do and will require) that your said Deputies do understand the nature of their Imployment and procedure therein.</item>
+                        <pb n="18" facs="tcp:154001:11"/>
+                        <label>B.</label>
+                        <item>And for your Indempnity, who are to secure the whole Receipt, (you being answerable for your Under-officers) you are to take such Security from all your Deputies, that you may be able certainly to receive and pay in to the Exchequer all the Revenue arising by the said Duty within your whole County, or Counties, and Places given you in charge, according to the times appointed in the Acts, that so His Majestie's publick Occasions, whereunto it is designed, may not be disappointed by the failer thereof.</item>
+                        <label>C.</label>
+                        <item>And having deputed any persons to collect and levy the said Duty, and gi<g ref="char:EOLhyphen"/>ven them Oath accordingly, you are (for the better satisfaction of the Coun<g ref="char:EOLhyphen"/>try, and to prevent Deceit) to certifie to the Justices of the Peace for the Coun<g ref="char:EOLhyphen"/>ty, or Counties, and Places within your Charge respectively, at their next Quar<g ref="char:EOLhyphen"/>ter Sessions, the Names and Additions
+<pb n="19" facs="tcp:154001:11"/> of the persons so deputed by you, therein signifying, that they, and every of them, have taken an Oath for the due perform<g ref="char:EOLhyphen"/>ance of their Trust, according to the Laws enacted to that purpose: And in case of removal of any of your Deputies after such Certificate made, or of imploying any new Deputy or Deputies, you are from time to time to certifie such Alteration to the said Justices as aforesaid.</item>
+                        <label>D.</label>
+                        <item>Before you, or any of your Deputies, do demand the Duty in any Towns, Parishes, or Places, (except Cities or Market-towns) you or they are to send or deliver a printed or written Sum<g ref="char:EOLhyphen"/>mons, to be read in the Church the Sun<g ref="char:EOLhyphen"/>day following the delivery thereof, or to be forthwith communicated by the Constable, or other such like Officer, to the Inhabitants within his Division, sig<g ref="char:EOLhyphen"/>nifying therein some convenient time after such intended publication, where<g ref="char:EOLhyphen"/>in you or some of your Deputies will be at the Town, Parish, or Place therein mentioned, in order to the receiving
+<pb n="20" facs="tcp:154001:12"/> of His Majestie's Duty; that so persons may not be surprized by your sudden coming, but may have some reasonable time to provide the Duty, and in their absence to leave out the same.</item>
+                        <label>E.</label>
+                        <item>You are to take care that your Depu<g ref="char:EOLhyphen"/>ties do immediately proceed (with the assistance of the Constables, <hi>&amp;c.</hi>) to the viewing and numbring of the several Fire-hearths and Stoves within any dwelling or other house, edifice, <hi>&amp;c.</hi> which shall be within the respective Divisions allotted by you unto them re<g ref="char:EOLhyphen"/>spectively: wherein they are to make use of such helps, methods, Lists or for<g ref="char:EOLhyphen"/>mer Views, as your self (having first re<g ref="char:EOLhyphen"/>ceived them by our Order) shall distri<g ref="char:EOLhyphen"/>bute to them, as useful, and in a good measure leading to the better under<g ref="char:EOLhyphen"/>standing of the Work in their respective Districts: Yet so as the said Lists or Views neither, are nor can be binding Rules to them, (who are and must act upon Oath) nor be relied upon or credited, far<g ref="char:EOLhyphen"/>ther than they shall be found (by the view of your self or your Deputies) to
+<pb n="21" facs="tcp:154001:12"/> have been justly and truly taken as the Law requires. And if it shall appear that any Parishes, Towns, Villages, Hamletts, places or houses, in any of their allotted Divisions, are omitted in the said Lists or Views, or any new Chimneys chargeable by Law have been since erected, care is to be taken to insert them in their proper places; and all other neglects, faileurs, or mistakes which shall be found in the said old Lists or Views, are to be rectified in your respective Views accordingly, upon and according to which new Views you and your Deputies are then to demand and receive two half yeares Duties due unto His Majesty, ending upon the 25 day of <hi>March</hi> 1670.</item>
+                        <label>F.</label>
+                        <item>You and your respective Deputies are in the taking of the names of the In<g ref="char:EOLhyphen"/>habitants in each Parish, Town or Place, (with the number of Hearths in each house) to enter them as they lie most contiguous, whereby the said Duty may be more easily collected, inscribing all
+<pb n="22" facs="tcp:154001:13"/> empty houses and their number of Hearths in their due places, with the names of the persons who by the Law are chargeable with the Duty for them.</item>
+                        <label>G.</label>
+                        <item>Having perfected the View of any Parish, Town, Constablery, Tything or Borrough, the same is to be fairly transcribed, according to the Method now delivered unto you, and (being signed by your Deputy who made such View, and by the Constable, Headbur<g ref="char:EOLhyphen"/>rough, Tything-man, or such like Offi<g ref="char:EOLhyphen"/>cer who assisted therein) the same is to be safely kept, till the whole Hun<g ref="char:EOLhyphen"/>dred, Wapentake, or other Division, be so viewed, signed and compleated; and then you are to take them into your own custody, till the whole County and places committed to your care be fi<g ref="char:EOLhyphen"/>nished: at which time you are forth<g ref="char:EOLhyphen"/>with to deliver, or cause to be delivered, the intire Views so taken and signed; (keeping Duplicates of them to be rea<g ref="char:EOLhyphen"/>dy for His Majesties service upon all
+<pb n="23" facs="tcp:154001:13"/> occasions,) together with a Certificate under your hand annexed, purporting that those are the Views taken in pur<g ref="char:EOLhyphen"/>suance of the Act of Parliament in that behalf, unto the respective Clerks of the Peace for the Counties, or for the Cities and Towns, and Counties of the Cities and Towns respectively; that so the said Clerks of the Peace may pro<g ref="char:EOLhyphen"/>ceed upon such Lists or Views, as they are by Law enjoyned and required.</item>
+                        <label>H.</label>
+                        <item>And you are to pay unto the said Clerks of the Peace one peny in the pound, for all such moneys as you or any of your Deputies shall receive for one whole years Duty due and ending upon the 25. day of <hi>March</hi> 1670. within the Counties and places to which such Clerks of the Peace do respectively be<g ref="char:EOLhyphen"/>long, and thence forward, according to the direction of the Acts: and also to such Constables, Tything-men, and other such like Officers, who shall readily assist you and your Deputies in view<g ref="char:EOLhyphen"/>ing, numbring, levying and colle<g ref="char:EOLhyphen"/>cting
+<pb n="24" facs="tcp:154001:14"/> the said Duty, two pence in the pound, for so much money as shall be collected by them or any of them, or by and with their respective personal assi<g ref="char:EOLhyphen"/>stance: Taking from the said Clerks of the Peace, and other such Officers respectively, distinct Acquittances un<g ref="char:EOLhyphen"/>der their hands, for so much as shall be so paid unto them, in order to the allowance thereof upon your Ac<g ref="char:EOLhyphen"/>compt.</item>
+                        <label>I.</label>
+                        <item>And you and your Deputies are to use your utmost diligence and discre<g ref="char:EOLhyphen"/>tion in the discharge of this trust, and to take special care, that the growing Revenue be duly collected and paid into His Majesties Receipt or Exche<g ref="char:EOLhyphen"/>quer, as by the said Acts is directed, without your detaining or otherwise disposing of any part thereof, which will be esteemed criminal, and severe<g ref="char:EOLhyphen"/>ly punished. As, on the contrary, we shall take into consideration any extra<g ref="char:EOLhyphen"/>ordinary care &amp; industry which shall be used in the improving of His Majesties
+<pb n="25" facs="tcp:154001:15"/> said Revenue, and speedy paying in of the moneys collected thereupon.</item>
+                        <label>K.</label>
+                        <item>And forasmuch as His Majesties profit is highly concerned in the collection of the said Duty; all Justices of Peace and chief Magistrates, Constables and other His Majesties Officers, within their seve<g ref="char:EOLhyphen"/>rall Limits and Jurisdictions, are authori<g ref="char:EOLhyphen"/>zed and required to give you and your re<g ref="char:EOLhyphen"/>spective Deputies assistance from time to-time in the due execution of your trusts. And all such Justices and Clerks of the Peace, chief Magistrates, Town-Clerks, Sheriffs, Constables, and other His Ma<g ref="char:EOLhyphen"/>jesties Officers, who shall readily give their assistance for the better settlement of this Revenue, and the regular and orderly Levying thereof, shall from time to time be by us represented to His Majesty, that so they may receive His Countenance and approbation of their good service therein</item>
+                        <pb n="24" facs="tcp:154001:15"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="25" facs="tcp:154001:14"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="24" facs="tcp:154001:16"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="25" facs="tcp:154001:16"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="26" facs="tcp:154001:17"/>
+                        <label>L.</label>
+                        <item>And you and your Deputies are so to demean yourselves, that you may avoid all just occasion of Offence, that so by your discreet behaviour this Affair (wherein His Majesties Advantage is so greatly con<g ref="char:EOLhyphen"/>cerned) may be the better advanced and carried on, and your selves also thereby freed from Complaint.</item>
+                        <label>M.</label>
+                        <item>And you are to take notice, that in case His Majesty shall be hereafter induced &amp; advi<g ref="char:EOLhyphen"/>sed again to Farm out this Duty, by reason of the neglect of His Officers in the due Collecting and answering thereof, His Majesty is resolved that no such Officer shall ever be admitted to Farm any part thereof, nor to receive any benefit thereby.</item>
+                        <pb n="27" facs="tcp:154001:17"/>
+                        <label>N.</label>
+                        <item>And Lastly, you and your Deputies are to execute and perform all other the Powers and things comprised in the said several Acts, for the Col<g ref="char:EOLhyphen"/>lecting and Levying of the said Re<g ref="char:EOLhyphen"/>venue, according to the tenor and direction of the said Acts, and of these Instructions, and from time to time to give a true accompt of your do<g ref="char:EOLhyphen"/>ings and proceedings therein (and of such moneys as you shall at any time pay or return to be paid into His Majesties Exchequer) to Us, or to such persons as shall be from time to time appointed to correspond with, and to communicate our Orders and Directions to you, for the more easie and ready signification of our plea<g ref="char:EOLhyphen"/>sures therein, with whom you are hereby ordered and required to keep such constant correspondency as may give them certainty where to direct,
+<pb n="28" facs="tcp:154001:18"/> and how to convey Letters to you upon all occasions.</item>
+                     </list>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="authorization">
+                  <p>
+                     <hi>We have perused these IN<g ref="char:EOLhyphen"/>STRUCTIONS, and do conceive them to be according to Law, and that it is expedient for His MAJESTIE's a Service they should be pursued</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>Heneage Finch</item>
+                           <item>Fra: North.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="fragmentary_instructions">
+                  <pb facs="tcp:154001:18"/>
+                  <p>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Assis <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> you <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> +lick Offic <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and Habitations in <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+                  <p n="3">3. In Surveying a <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> it necessary) you sha <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> other Publick Office <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+                  <p n="4">4. In all Places i <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> contiguous and in o <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Duty.</p>
+                  <p n="5">5. In taking you <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Cellar, and Garre <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> each Fire-Hearth <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Hearths <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> each <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> co <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </body>
+            <back>
+               <div type="authorization">
+                  <pb facs="tcp:154001:19"/>
+                  <pb n="29" facs="tcp:154001:19"/>
+                  <p>
+                     <hi>These INSTRUCTI<g ref="char:EOLhyphen"/>ONS being allowed and approved by His MA<g ref="char:EOLhyphen"/>JESTIE's Councel lear<g ref="char:EOLhyphen"/>ned in the Law, we di<g ref="char:EOLhyphen"/>rect that they be pursued.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>Ashley.</item>
+                           <item>T. Clifford.</item>
+                           <item>Jo. Duncombe.</item>
+                        </list>
+                     </signed>
+                     <dateline>Treasury Chamber,
+<date>19 of <hi>April</hi> 1670,</date>
+                     </dateline>
+                  </closer>
+                  <pb facs="tcp:154001:20"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="29" facs="tcp:154001:20"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:154001:21"/>
+                  <pb facs="tcp:154001:21"/>
+                  <pb facs="tcp:154001:22"/>
+                  <pb facs="tcp:154001:22"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
